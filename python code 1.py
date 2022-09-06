@@ -1,5 +1,6 @@
 
-print() #generates a blank line
+print()
+#generates a blank line
 name=input("what is your name?")
 age=int(input(f"How old are you,{name}"))
 
